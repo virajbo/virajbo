@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Viraj Bodke
 
-<!--
-**virajbo/virajbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend & Deployment Engineer
 
-Here are some ideas to get you started:
+Frontend Developer with hands-on experience in building and deploying production web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React.js
+- JavaScript
+- Vue.js
+- Nuxt.js
+- HTML5
+- CSS3
+
+## ⚙ Deployment
+
+- Docker
+- Linux
+- Nginx
+- REST APIs
+
+## 🗄 Database
+
+- MySQL
+- PostgreSQL
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- Postman
+- Android Studio
+- WordPress
+
+## 💼 Current Focus
+
+- React.js
+- Production Deployment
+- Docker
+- Linux
+- Nginx
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/viraj-bodke-294b4130b
+
+Email:
+virajbodke07@gmail.com
