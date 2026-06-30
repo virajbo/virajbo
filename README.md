@@ -48,3 +48,13 @@ www.linkedin.com/in/viraj-bodke-294b4130b
 
 Email:
 virajbodke07@gmail.com
+
+## 💼 Experience
+
+- 1.5+ years of professional experience
+- Built and deployed production web applications
+- Worked on Shipping Management Systems
+- Restaurant POS Systems
+- Healthcare & Veterinary Platforms
+- Fitness Websites
+- E-commerce Applications
